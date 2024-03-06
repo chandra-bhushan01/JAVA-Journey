@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Basics of java/Basics of java.iml" filepath="$PROJECT_DIR$/Basics of java/Basics of java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAA/DAA.iml" filepath="$PROJECT_DIR$/DAA/DAA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAA/Graphs/Graphs.iml" filepath="$PROJECT_DIR$/DAA/Graphs/Graphs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Journey Java.iml" filepath="$PROJECT_DIR$/Journey Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAA/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/DAA/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAA/Queue/Queue.iml" filepath="$PROJECT_DIR$/DAA/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recurssion/Recurssion.iml" filepath="$PROJECT_DIR$/Recurssion/Recurssion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAA/Searching/Searching.iml" filepath="$PROJECT_DIR$/DAA/Searching/Searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAA/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/DAA/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAA/Stack/Stack.iml" filepath="$PROJECT_DIR$/DAA/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAA/Tree/Tree.iml" filepath="$PROJECT_DIR$/DAA/Tree/Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditionalLoops/conditionalLoops.iml" filepath="$PROJECT_DIR$/conditionalLoops/conditionalLoops.iml" />
+    </modules>
+  </component>
+</project>
